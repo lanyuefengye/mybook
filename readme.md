@@ -2,4 +2,4 @@
 
 学习
 
-1.[coreJava笔记](corejava/readme.md)
+1.[coreJava笔记](corejava/index.md)
